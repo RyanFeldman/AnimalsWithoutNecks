@@ -1,0 +1,11 @@
+German Shepard * https://i.imgur.com/9SXo81P.jpg * Animal * Sunset
+Arnold Schwarzenegger * https://i.imgur.com/07O7Wie.jpg * Human * Forest
+The Animals * https://i.imgur.com/oUXbiVd.jpg * Human * Wall
+Cheeta * http://i.imgur.com/V3wL2h1.jpg * Animal * Outside
+Elephant * https://i.imgur.com/OUdK3.jpg * Animal * Road
+testing * http://i.imgur.com/dpdUfWv.jpg * Animal * alright
+this works * http://i.imgur.com/bbyc11C.jpg * Animal * dlskjf
+I just added this after grader said adding doesnt work * http://i.imgur.com/bbyc11C.jpg * Animal * aaa
+Giraffe * https://puu.sh/uvmMk/e41c67247c.png * Animal * Outside
+asdf * https://puu.sh/uvmMk/e41c67247c.png * Animal * asdf
+hello * http://i.imgur.com/cF9Ax9T.jpg * Animal * here
